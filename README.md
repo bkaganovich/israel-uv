@@ -12,7 +12,7 @@ Python program to display hourly ultraviolet radiation index data for selected c
 
 ### Displaying Help Menu
 
-`$ ./israel-uv --help`#
+`$ ./israel-uv --help`
 
 **Output:**  
 ```bash
