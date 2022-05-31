@@ -6,7 +6,7 @@ import json
 import requests
 import re
 
-NAME = 'israel_uv'
+NAME = 'israel-uv'
 
 def ims():
     url = 'https://ims.data.gov.il/sites/default/files/isr_rad.xml'

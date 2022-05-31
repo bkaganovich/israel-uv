@@ -16,10 +16,10 @@ Python program to display hourly ultraviolet radiation index data for selected c
 
 **Output:**  
 ```bash
-Usage: ./israel_uv [OPTION]
+Usage: ./israel-uv [OPTION]
 
 Example:
-./israel_uv -c haifa    # Display solar radiation forecast for the city of Haifa.
+./israel-uv -c haifa    # Display solar radiation forecast for the city of Haifa.
 
 Options:
 -l, --list              List avaiable cities.
